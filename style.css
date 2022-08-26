@@ -42,11 +42,13 @@ header a{
     font-size: 80px;
     text-align: center;
     padding-top: 320px;
+    color: #fff;
 }
 
 .firstView p{
    font-size: 30px;
    text-align: center;
+   color: #fff;
 }
 
 .firstView {
